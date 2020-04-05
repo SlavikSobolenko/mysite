@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89db7c46-ba78-4d4f-b751-d16470b2929f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZOmV77yjzPfgDrVwqJ9vIn1LmO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89db7c46-ba78-4d4f-b751-d16470b2929f" name="Default Changelist" comment="" />
+      <created>1584718535446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584718535446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="59" width="800" height="684" key="#Inspections" timestamp="1585842339778">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="556" y="59" width="800" height="684" key="#Inspections/70.27.1296.741@70.27.1296.741" timestamp="1585842339778" />
+    <state x="414" y="202" width="598" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584811833522">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="414" y="202" width="598" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1584811833522" />
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584760901651">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1584760901651" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586036438228">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1586036438228" />
+    <state x="694" y="70" width="662" height="662" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585935517111">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="694" y="70" width="662" height="662" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.27.1296.741@70.27.1296.741" timestamp="1585935517111" />
+  </component>
+</project>
